@@ -25,7 +25,7 @@ The "secure" destiniation page.
 
 > Added from the [previous version:](https://github.com/NeilParkerBSDC/LoginStepByStepTutorial2)
 >
-> - some '''echo''' statements added to check what data has been passed to this page.
+> - some ```echo``` statements added to check what data has been passed to this page.
 
 ## Diagram
 ```
